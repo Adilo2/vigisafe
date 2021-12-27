@@ -1,0 +1,37 @@
+.navigation
+{
+   
+    font-family: 'Open Sans',sans-serif;
+    height: 100%;
+     
+}
+
+.navigationlogo
+{
+z-index: -999;
+width: 300px;
+position: absolute;
+top:0%;
+left:3%
+
+}
+.navigationlink
+  {
+   
+    font-size:13px;
+    margin-bottom:2px;
+    padding:46px;
+    display:inline-block;
+    color:#0161b8;;
+    font-weight:900;
+    z-index:9999;
+    text-transform: uppercase;
+    
+  }
+  .logoimg
+  { 
+      width:330px;
+      height:330px;
+
+     
+  }

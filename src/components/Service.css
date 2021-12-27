@@ -1,0 +1,94 @@
+.service
+{
+ 
+    float:right;  
+    width:100%; 
+    position:absolute;
+    top:35%;
+    height:230%;
+    left:5%;
+   vertical-align: baseline;
+   overflow: scroll;
+
+}  
+.servicecard
+{
+
+  width: 1150px;
+   text-align: left; 
+   display:inline-block;
+   box-shadow: 5px 5px 8px 5px #888888;
+   height:375px;
+   margin:17px;
+  padding: 10px;
+}
+.servicecardtext
+{
+
+
+  max-width: 520px;
+  margin-right: 20px;
+  text-align: left;
+  font-family: arial;
+ float:left;
+}
+.servicecard p
+{
+
+ font-size: 23px;
+}
+.drugoutsourcingcard
+{
+
+  width: 1100px;
+
+   text-align: left; 
+   display:inline-block;
+   box-shadow: 5px 5px 8px 5px #888888;
+   height:105px;
+   margin:17px;
+  padding: 10px;
+}
+.servicecardimgdiv{
+  padding:10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 520px;
+  margin-right: 0px;
+  text-align: center;
+  font-family: arial;
+
+ float:left;
+  
+}
+.servicecardimg{
+  height:15vw;
+  object-fit: cover;
+  width: 100%;
+  padding-top:3%;
+  display: inline; 
+}
+.servicecard:hover {
+    box-shadow: 0 8px 16px 0 rgba(194, 5, 5, 0.2);
+  }
+  .servicecard li {
+  
+  display: inline-block;
+  text-align: left;
+  }
+  .serviceheader
+  {
+      
+   
+      text-align: left;
+  }
+  .serviceflex
+{
+    display:flex;
+    width:100%;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    flex: 1;
+ 
+}
+ 
+ 
